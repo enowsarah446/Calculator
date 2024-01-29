@@ -1,0 +1,6 @@
+This is a basic web calculator app 
+Can perform simple operations like addition,
+subtraction, multiplication and division.
+
+
+Run this command to execute  'python3 manage.py runserver'.
